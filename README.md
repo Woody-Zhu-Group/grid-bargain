@@ -1,6 +1,6 @@
 # Grid Bargain
 
-An interactive research portal for `Data_Center__Utilities__and_Ratepayers.pdf`, especially its compact game in Section 8, equation (7).
+An interactive research portal for our ongoing paper titled `Strategic Capacity Requests as a Cap on Regulated Utility Investment`.
 
 ## Run
 
